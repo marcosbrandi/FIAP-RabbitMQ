@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M621n6oQWPAYK9mlE9vkFHEpJadVYcSfw2XsCiKn6uU=",
+  "Source": "FIAP.Consumer",
+  "BasePath": "_content/FIAP.Consumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

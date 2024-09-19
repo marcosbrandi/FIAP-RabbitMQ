@@ -1,0 +1,6 @@
+@FIAP.Subscriber_HostAddress = http://localhost:5090
+
+GET {{FIAP.Subscriber_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

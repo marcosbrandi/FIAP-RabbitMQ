@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FIAP.Publisher.Controllers.MessageController",
+    "Method": "PostMessage",
+    "RelativePath": "Message",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "FIAP.Domain.MessageRabbit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

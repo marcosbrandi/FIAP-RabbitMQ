@@ -1,0 +1,11 @@
+F:\Dev\Git\RabbitMQFIAP\FIAPRabbitMQ\FIAP.Domain\bin\Debug\net8.0\FIAP.Domain.deps.json
+F:\Dev\Git\RabbitMQFIAP\FIAPRabbitMQ\FIAP.Domain\bin\Debug\net8.0\FIAP.Domain.dll
+F:\Dev\Git\RabbitMQFIAP\FIAPRabbitMQ\FIAP.Domain\bin\Debug\net8.0\FIAP.Domain.pdb
+F:\Dev\Git\RabbitMQFIAP\FIAPRabbitMQ\FIAP.Domain\obj\Debug\net8.0\FIAP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Git\RabbitMQFIAP\FIAPRabbitMQ\FIAP.Domain\obj\Debug\net8.0\FIAP.Domain.AssemblyInfoInputs.cache
+F:\Dev\Git\RabbitMQFIAP\FIAPRabbitMQ\FIAP.Domain\obj\Debug\net8.0\FIAP.Domain.AssemblyInfo.cs
+F:\Dev\Git\RabbitMQFIAP\FIAPRabbitMQ\FIAP.Domain\obj\Debug\net8.0\FIAP.Domain.csproj.CoreCompileInputs.cache
+F:\Dev\Git\RabbitMQFIAP\FIAPRabbitMQ\FIAP.Domain\obj\Debug\net8.0\FIAP.Domain.dll
+F:\Dev\Git\RabbitMQFIAP\FIAPRabbitMQ\FIAP.Domain\obj\Debug\net8.0\refint\FIAP.Domain.dll
+F:\Dev\Git\RabbitMQFIAP\FIAPRabbitMQ\FIAP.Domain\obj\Debug\net8.0\FIAP.Domain.pdb
+F:\Dev\Git\RabbitMQFIAP\FIAPRabbitMQ\FIAP.Domain\obj\Debug\net8.0\ref\FIAP.Domain.dll

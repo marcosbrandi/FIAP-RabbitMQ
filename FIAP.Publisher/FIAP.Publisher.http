@@ -1,0 +1,6 @@
+@FIAP.Publisher_HostAddress = http://localhost:5155
+
+GET {{FIAP.Publisher_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
